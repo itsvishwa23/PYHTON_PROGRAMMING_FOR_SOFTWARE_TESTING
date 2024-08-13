@@ -18,7 +18,7 @@ lst.insert(2, "Pineapple")
 for i in lst:
     print(i)
 print(len(lst))
-
+lst[3] = 10
 lst.reverse()
 for i in lst:
     print(i)
@@ -30,5 +30,4 @@ for j in lst3:
 
 sst = {10, 10}
 print(len(sst))
-
-https://youtu.be/Q0ESmzic20c?t=3177
+lst.remove()
